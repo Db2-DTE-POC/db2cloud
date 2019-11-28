@@ -1,6 +1,6 @@
-# Db2 Version 11.1 Features and Functions
-This repository contains examples of new functionality found in Db2 11.1. In order to use these examples you must have:
-* Db2 installed locally or on the cloud
+# Db2 on Cloud Features and Functions
+This repository contains examples of how to connect and use Db2 on Cloud. In order to use these examples you must have:
+* Db2 on Cloud account
 * Jupyter Notebooks 
 * Db2 Python driver
 * Db2 Jupyter notebook extensions
